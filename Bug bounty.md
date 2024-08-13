@@ -3,7 +3,7 @@
 
 
 | First Header  | Second Header                                   | Reward                  |
-| ------------- | ------------------------------------------------| ________________________|
+| ------------- | ------------------------------------------------|-------------------------|
 | Allbridge     | [Allbridge](https://hackenproof.com/allbridge)  | Rewards up to $75000    |
 | Content Cell  | Content Cell                                    |
 
