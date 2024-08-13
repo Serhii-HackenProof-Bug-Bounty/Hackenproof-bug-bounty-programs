@@ -4,23 +4,23 @@
 
 | Company name  | Link                                            | Reward                  |
 | ------------- | ------------------------------------------------|-------------------------|
-|	Allbridge	|	https://hackenproof.com/company/allbridge	|	Rewards up to $4000	|
-|	Latoken	|	https://hackenproof.com/company/latoken	|	Rewards up to $1500	|
-|	Coingecko	|	https://hackenproof.com/company/coingecko	|	Rewards up to $1500	|
-|	Coinmetro	|	https://hackenproof.com/company/coinmetro	|	Rewards up to $3000	|
-|	Coinsbit	|	https://hackenproof.com/company/coinsbit	|	Rewards up to $1200	|
-|	Gate io	|	https://hackenproof.com/company/gate-dot-io	|	Rewards up to $5000	|
-|	HackenProof	|	https://hackenproof.com/company/hacken	|	Rewards up to $1500	|
-|	HTX	|	https://hackenproof.com/company/htx	|	Rewards up to $100000	|
-|	Kuna	|	https://hackenproof.com/company/kuna	|	Rewards up to $5000	|
-|	LCX	|	https://hackenproof.com/lcx	|	Rewards up to $3000	|
-|	P2PB2B	|	https://hackenproof.com/p2b-exchange	|	Rewards up to $1000	|
-|	WhiteBIT	|	https://hackenproof.com/whitebit	|	Rewards up to $10000	|
-|	Vechain	|	https://hackenproof.com/vechain	|	Rewards up to $10000	|
-|	DexTrade	|	https://hackenproof.com/dex-trade	|	Rewards up to $3000	|
-|	Bitstorage	|	https://hackenproof.com/bitstorage-finance	|	Rewards up to $3000	|
-|	Coinstore	|	https://hackenproof.com/coinstore	|	Rewards up to $10000	|
-|	OKX	|	https://hackenproof.com/okx-1	|	Rewards up to $1000000	|
+|	Allbridge	|	https://hackenproof.com/company/allbridge/programs	|	Rewards up to $4000	|
+|	Latoken	|	https://hackenproof.com/company/latoken/programs	|	Rewards up to $1500	|
+|	Coingecko	|	https://hackenproof.com/company/coingecko/programs	|	Rewards up to $1500	|
+|	Coinmetro	|	https://hackenproof.com/company/coinmetro/programs	|	Rewards up to $3000	|
+|	Coinsbit	|	https://hackenproof.com/company/coinsbit/programs	|	Rewards up to $1200	|
+|	Gate io	|	https://hackenproof.com/company/gate-dot-io/programs	|	Rewards up to $5000	|
+|	HackenProof	|	https://hackenproof.com/company/hacken/programs	|	Rewards up to $1500	|
+|	HTX	|	https://hackenproof.com/company/htx/programs	|	Rewards up to $100000	|
+|	Kuna	|	https://hackenproof.com/company/kuna/programs	|	Rewards up to $5000	|
+|	LCX	|	https://hackenproof.com/lcx/programs	|	Rewards up to $3000	|
+|	P2PB2B	|	https://hackenproof.com/p2b-exchange/programs	|	Rewards up to $1000	|
+|	WhiteBIT	|	https://hackenproof.com/whitebit/programs	|	Rewards up to $10000	|
+|	Vechain	|	https://hackenproof.com/vechain/programs	|	Rewards up to $10000	|
+|	DexTrade	|	https://hackenproof.com/dex-trade/programs	|	Rewards up to $3000	|
+|	Bitstorage	|	https://hackenproof.com/bitstorage-finance/programs	|	Rewards up to $3000	|
+|	Coinstore	|	https://hackenproof.com/coinstore/programs	|	Rewards up to $10000	|
+|	OKX	|	https://hackenproof.com/okx-1/programs	|	Rewards up to $1000000	|
 |	Bitrue	|	https://hackenproof.com/bitrue	|	Rewards up to $1500	|
 |	EXMO	|	https://hackenproof.com/exmo	|	Rewards up to $3000	|
 |	Cryptology	|	https://hackenproof.com/cryptology	|	Rewards up to $50000	|
