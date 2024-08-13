@@ -4,19 +4,19 @@
 
 | Company name  | Link                                            | Reward                  |
 | ------------- | ------------------------------------------------|-------------------------|
-|	Allbridge	|	https://hackenproof.com/allbridge	|	Rewards up to $	|
-|	Latoken	|	https://hackenproof.com/latoken	|	Rewards up to $	|
-|	Coingecko	|	https://hackenproof.com/coingecko	|	Rewards up to $	|
-|	Coinmetro	|	https://hackenproof.com/coinmetro	|	Rewards up to $	|
-|	Coinsbit	|	https://hackenproof.com/coinsbit	|	Rewards up to $	|
-|	Gate io	|	https://hackenproof.com/gate-dot-io	|	Rewards up to $	|
-|	HackenProof	|	https://hackenproof.com/hacken	|	Rewards up to $	|
-|	HTX	|	https://hackenproof.com/htx	|	Rewards up to $	|
-|	Kuna	|	https://hackenproof.com/kuna	|	Rewards up to $	|
-|	LCX	|	https://hackenproof.com/lcx	|	Rewards up to $	|
-|	P2PB2B	|	https://hackenproof.com/p2b-exchange	|	Rewards up to $	|
-|	WhiteBIT	|	https://hackenproof.com/whitebit	|	Rewards up to $	|
-|	Vechain	|	https://hackenproof.com/vechain	|	Rewards up to $	|
+|	Allbridge	|	https://hackenproof.com/allbridge	|	Rewards up to $4000	|
+|	Latoken	|	https://hackenproof.com/latoken	|	Rewards up to $1500	|
+|	Coingecko	|	https://hackenproof.com/coingecko	|	Rewards up to $1500	|
+|	Coinmetro	|	https://hackenproof.com/coinmetro	|	Rewards up to $3000	|
+|	Coinsbit	|	https://hackenproof.com/coinsbit	|	Rewards up to $1200	|
+|	Gate io	|	https://hackenproof.com/gate-dot-io	|	Rewards up to $5000	|
+|	HackenProof	|	https://hackenproof.com/hacken	|	Rewards up to $1500	|
+|	HTX	|	https://hackenproof.com/htx	|	Rewards up to $100000	|
+|	Kuna	|	https://hackenproof.com/kuna	|	Rewards up to $5000	|
+|	LCX	|	https://hackenproof.com/lcx	|	Rewards up to $3000	|
+|	P2PB2B	|	https://hackenproof.com/p2b-exchange	|	Rewards up to $1000	|
+|	WhiteBIT	|	https://hackenproof.com/whitebit	|	Rewards up to $10000	|
+|	Vechain	|	https://hackenproof.com/vechain	|	Rewards up to $10000	|
 |	DexTrade	|	https://hackenproof.com/dex-trade	|	Rewards up to $	|
 |	Bitstorage	|	https://hackenproof.com/bitstorage-finance	|	Rewards up to $	|
 |	Coinstore	|	https://hackenproof.com/coinstore	|	Rewards up to $	|
