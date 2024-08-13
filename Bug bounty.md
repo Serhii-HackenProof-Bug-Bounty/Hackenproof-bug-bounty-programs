@@ -17,7 +17,7 @@
 |	P2PB2B	|	https://hackenproof.com/p2b-exchange	|	Rewards up to $	|
 |	WhiteBIT	|	https://hackenproof.com/whitebit	|	Rewards up to $	|
 |	Vechain	|	https://hackenproof.com/vechain	|	Rewards up to $	|
-|	DexTrade (BitStorage)	|	https://hackenproof.com/dex-trade	|	Rewards up to $	|
+|	DexTrade	|	https://hackenproof.com/dex-trade	|	Rewards up to $	|
 |	Bitstorage	|	https://hackenproof.com/bitstorage-finance	|	Rewards up to $	|
 |	Coinstore	|	https://hackenproof.com/coinstore	|	Rewards up to $	|
 |	OKX	|	https://hackenproof.com/okx-1	|	Rewards up to $	|
