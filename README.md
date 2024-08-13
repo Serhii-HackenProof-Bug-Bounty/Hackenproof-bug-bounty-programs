@@ -41,58 +41,58 @@
 |	JOJO	|	https://hackenproof.com/company/jojo/programs	|	Rewards up to $30000	|
 |	Dexalot	|	https://hackenproof.com/company/dexalot/programs	|	Rewards up to $100000	|
 |	Dodo	|	https://hackenproof.com/company/dodoex/programs	|	Rewards up to $10000	|
-|	TicketsTravel	|	https://hackenproof.com/company/tickets-travel-network/programs	|	Rewards up to $	|
-|	Chainstack	|	https://hackenproof.com/company/chainstack/programs	|	Rewards up to $	|
-|	AssetMantle	|	https://hackenproof.com/company/assetmantle/programs	|	Rewards up to $	|
-|	UACatsDivision	|	https://hackenproof.com/company/uacatsdivision/programs	|	Rewards up to $	|
-|	Aurora	|	https://hackenproof.com/company/aurora/programs	|	Rewards up to $	|
-|	XT	|	https://hackenproof.com/company/xt/programs	|	Rewards up to $	|
-|	Vertex protocol	|	https://hackenproof.com/company/vertex-protocol/programs	|	Rewards up to $	|
-|	Bitcastle	|	https://hackenproof.com/company/bitcastle/programs	|	Rewards up to $	|
-|	Asymetrix	|	https://hackenproof.com/company/asymetrix/programs	|	Rewards up to $	|
-|	WhiteMarket	|	https://hackenproof.com/company/whitemarket/programs	|	Rewards up to $	|
-|	Superfluid	|	https://hackenproof.com/company/superfluid/programs	|	Rewards up to $	|
-|	DeltaPrime	|	https://hackenproof.com/company/deltaprime/programs	|	Rewards up to $	|
-|	EVAA	|	https://hackenproof.com/company/evaa/programs	|	Rewards up to $	|
-|	MyEtherWallet	|	https://hackenproof.com/company/myetherwallet/programs	|	Rewards up to $	|
-|	NiceHash	|	https://hackenproof.com/company/nicehash/programs	|	Rewards up to $	|
-|	Filmio	|	https://hackenproof.com/company/filmio/programs	|	Rewards up to $	|
-|	LetsExchange	|	https://hackenproof.com/company/letsexchange/programs	|	Rewards up to $	|
-|	Bitexen	|	https://hackenproof.com/company/bitexen/programs	|	Rewards up to $	|
-|	Toobit	|	https://hackenproof.com/company/toobit/programs	|	Rewards up to $	|
-|	Fastex	|	https://hackenproof.com/company/fastex/programs	|	Rewards up to $	|
-|	SmarDex	|	https://hackenproof.com/company/smardex/programs	|	Rewards up to $	|
-|	Trustee	|	https://hackenproof.com/company/trustee/programs	|	Rewards up to $	|
-|	SUI	|	https://hackenproof.com/company/sui/programs	|	Rewards up to $	|
-|	Probit	|	https://hackenproof.com/company/probit-global/programs	|	Rewards up to $	|
-|	Vaultka	|	https://hackenproof.com/company/vaultka/programs	|	Rewards up to $	|
-|	Pointpay	|	https://hackenproof.com/company/pointpay/programs	|	Rewards up to $	|
-|	Kolibrio/Alfred	|	https://hackenproof.com/company/kolibrio/programs	|	Rewards up to $	|
-|	Pionex	|	https://hackenproof.com/company/pionex/programs	|	Rewards up to $	|
-|	KINZA	|	https://hackenproof.com/company/kinza/programs	|	Rewards up to $	|
-|	CoinTR	|	https://hackenproof.com/company/cointr-pro/programs	|	Rewards up to $	|
-|	Blofin	|	https://hackenproof.com/company/blofin/programs	|	Rewards up to $	|
-|	Horizon protocol	|	https://hackenproof.com/company/horizon-protocol/programs	|	Rewards up to $	|
-|	1inch	|	https://hackenproof.com/company/1inch/programs	|	Rewards up to $	|
-|	ZetaChain	|	https://hackenproof.com/company/zetachain/programs	|	Rewards up to $	|
-|	DeXe protocol	|	https://hackenproof.com/company/dexe-protocol/programs	|	Rewards up to $	|
-|	Impermax Finance	|	https://hackenproof.com/company/impermax-finance/programs	|	Rewards up to $	|
-|	AlphaX	|	https://hackenproof.com/company/alphax/programs	|	Rewards up to $	|
-|	Ton Diamonds	|	https://hackenproof.com/company/ton-diamonds/programs	|	Rewards up to $	|
-|	Mysten Labs	|	https://hackenproof.com/company/mysten-labs/programs	|	Rewards up to $	|
-|	Civic 	|	https://hackenproof.com/civic/programs	|	Rewards up to $	|
-|	Deepcoin	|	https://hackenproof.com/company/deepcoin/programs	|	Rewards up to $	|
-|	Shido	|	https://hackenproof.com/company/shido/programs	|	Rewards up to $	|
-|	Exzi	|	https://hackenproof.com/company/exzi/programs	|	Rewards up to $	|
-|	OORT	|	https://hackenproof.com/company/oort/programs	|	Rewards up to $	|
-|	Polygon	|	https://hackenproof.com/company/polygon-technology/programs	|	Rewards up to $	|
-|	Tokenize Xchange	|	https://hackenproof.com/company/tokenize-xchange/programs	|	Rewards up to $	|
-|	Poloniex	|	https://hackenproof.com/company/poloniex/programs	|	Rewards up to $	|
-|	Smilee	|	https://hackenproof.com/company/smilee/programs	|	Rewards up to $	|
-|	Metamask	|	https://hackenproof.com/company/metamask/programs	|	Rewards up to $	|
-|	CoinW	|	https://hackenproof.com/company/coinw/programs	|	Rewards up to $	|
-|	Cronos	|	https://hackenproof.com/company/cronos/programs	|	Rewards up to $	|
-|	RISC Zero	|	https://hackenproof.com/company/risc-zero/programs	|	Rewards up to $	|
+|	TicketsTravel	|	https://hackenproof.com/company/tickets-travel-network/programs	|	Rewards up to $2000	|
+|	Chainstack	|	https://hackenproof.com/company/chainstack/programs	|	Rewards up to $2000	|
+|	AssetMantle	|	https://hackenproof.com/company/assetmantle/programs	|	Rewards up to $1000	|
+|	UACatsDivision	|	https://hackenproof.com/company/uacatsdivision/programs	|	Merch Rewards	|
+|	Aurora	|	https://hackenproof.com/company/aurora/programs	|	Rewards up to $1000000	|
+|	XT	|	https://hackenproof.com/company/xt/programs	|	Rewards up to $2000	|
+|	Vertex protocol	|	https://hackenproof.com/company/vertex-protocol/programs	|	Rewards up to $500000	|
+|	Bitcastle	|	https://hackenproof.com/company/bitcastle/programs	|	Rewards up to $1200	|
+|	Asymetrix	|	https://hackenproof.com/company/asymetrix/programs	|	Rewards up to $100000	|
+|	WhiteMarket	|	https://hackenproof.com/company/whitemarket/programs	|	Rewards up to $5000	|
+|	Superfluid	|	https://hackenproof.com/company/superfluid/programs	|	Rewards up to $100000	|
+|	DeltaPrime	|	https://hackenproof.com/company/deltaprime/programs	|	Rewards up to $1000000	|
+|	EVAA	|	https://hackenproof.com/company/evaa/programs	|	Rewards up to $3000	|
+|	MyEtherWallet	|	https://hackenproof.com/company/myetherwallet/programs	|	Rewards up to $3000	|
+|	NiceHash	|	https://hackenproof.com/company/nicehash/programs	|	Rewards up to BTC 0.5	|
+|	Filmio	|	https://hackenproof.com/company/filmio/programs	|	Rewards up to $2500	|
+|	LetsExchange	|	https://hackenproof.com/company/letsexchange/programs	|	Rewards up to $2000	|
+|	Bitexen	|	https://hackenproof.com/company/bitexen/programs	|	Rewards up to $3000	|
+|	Toobit	|	https://hackenproof.com/company/toobit/programs	|	Rewards up to $10000	|
+|	Fastex	|	https://hackenproof.com/company/fastex/programs	|	Rewards up to $2000	|
+|	SmarDex	|	https://hackenproof.com/company/smardex/programs	|	Rewards up to $500000	|
+|	Trustee	|	https://hackenproof.com/company/trustee/programs	|	Rewards up to $3000	|
+|	SUI	|	https://hackenproof.com/company/sui/programs	|	Rewards up to $1000000	|
+|	Probit	|	https://hackenproof.com/company/probit-global/programs	|	Rewards up to $10000	|
+|	Vaultka	|	https://hackenproof.com/company/vaultka/programs	|	Rewards up to $15000	|
+|	Pointpay	|	https://hackenproof.com/company/pointpay/programs	|	Rewards up to $500	|
+|	Kolibrio	|	https://hackenproof.com/company/kolibrio/programs	|	Rewards up to $10000	|
+|	Pionex	|	https://hackenproof.com/company/pionex/programs	|	Rewards up to $10000	|
+|	KINZA	|	https://hackenproof.com/company/kinza/programs	|	Rewards up to $50000	|
+|	CoinTR	|	https://hackenproof.com/company/cointr-pro/programs	|	Rewards up to $2000	|
+|	Blofin	|	https://hackenproof.com/company/blofin/programs	|	Rewards up to $3000	|
+|	Horizon protocol	|	https://hackenproof.com/company/horizon-protocol/programs	|	Rewards up to $60000	|
+|	1inch	|	https://hackenproof.com/company/1inch/programs	|	Rewards up to $500000	|
+|	ZetaChain	|	https://hackenproof.com/company/zetachain/programs	|	Rewards up to $200000	|
+|	DeXe protocol	|	https://hackenproof.com/company/dexe-protocol/programs	|	Rewards up to $500000	|
+|	Impermax Finance	|	https://hackenproof.com/company/impermax-finance/programs	|	Rewards up to $100000	|
+|	AlphaX	|	https://hackenproof.com/company/alphax/programs	|	Rewards up to $5000	|
+|	Ton Diamonds	|	https://hackenproof.com/company/ton-diamonds/programs	|	Rewards up to $10000	|
+|	Mysten Labs	|	https://hackenproof.com/company/mysten-labs/programs	|	Rewards up to $30000	|
+|	Civic 	|	https://hackenproof.com/civic/programs	|	Rewards up to $20000	|
+|	Deepcoin	|	https://hackenproof.com/company/deepcoin/programs	|	Rewards up to $5000	|
+|	Shido	|	https://hackenproof.com/company/shido/programs	|	Rewards up to $10000	|
+|	Exzi	|	https://hackenproof.com/company/exzi/programs	|	Rewards up to $3000	|
+|	OORT	|	https://hackenproof.com/company/oort/programs	|	Rewards up to $100000	|
+|	Polygon	|	https://hackenproof.com/company/polygon-technology/programs	|	Rewards up to $1000000	|
+|	Tokenize Xchange	|	https://hackenproof.com/company/tokenize-xchange/programs	|	Rewards up to $1100	|
+|	Poloniex	|	https://hackenproof.com/company/poloniex/programs	|	Rewards up to $5000	|
+|	Smilee	|	https://hackenproof.com/company/smilee/programs	|	Rewards up to $75000	|
+|	Metamask	|	https://hackenproof.com/company/metamask/programs	|	Rewards up to $700000	|
+|	CoinW	|	https://hackenproof.com/company/coinw/programs	|	Rewards up to $2000	|
+|	Cronos	|	https://hackenproof.com/company/cronos/programs	|	Rewards up to $250000	|
+|	RISC Zero	|	https://hackenproof.com/company/risc-zero/programs	|	Rewards up to $150000	|
 |	AirPuff	|	https://hackenproof.com/company/airpuff/programs	|	Rewards up to $	|
 |	Slex	|	https://hackenproof.com/company/slex/programs	|	Rewards up to $	|
 |	All in Bits	|	https://hackenproof.com/company/all-in-bits/programs	|	Rewards up to $	|
