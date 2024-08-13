@@ -11,7 +11,7 @@
 |	Coinsbit	|	https://hackenproof.com/coinsbit	|	Rewards up to $	|
 |	Gate io	|	https://hackenproof.com/gate-dot-io	|	Rewards up to $	|
 |	HackenProof	|	https://hackenproof.com/hacken	|	Rewards up to $	|
-|	Huobi (HTX)	|	https://hackenproof.com/htx	|	Rewards up to $	|
+|	HTX	|	https://hackenproof.com/htx	|	Rewards up to $	|
 |	Kuna	|	https://hackenproof.com/kuna	|	Rewards up to $	|
 |	LCX	|	https://hackenproof.com/lcx	|	Rewards up to $	|
 |	P2PB2B	|	https://hackenproof.com/p2b-exchange	|	Rewards up to $	|
@@ -31,7 +31,7 @@
 |	Router	|	https://hackenproof.com/router	|	Rewards up to $	|
 |	BitMart	|	https://hackenproof.com/bitmart-exchange	|	Rewards up to $	|
 |	Ternoa	|	https://hackenproof.com/ternoa	|	Rewards up to $	|
-|	DIFX (Bitdelta)	|	https://hackenproof.com/bitdelta	|	Rewards up to $	|
+|	Bitdelta	|	https://hackenproof.com/bitdelta	|	Rewards up to $	|
 |	Status (IFT)	|	https://hackenproof.com/company/ift/programs	|	Rewards up to $	|
 |	BingX	|	https://hackenproof.com/bingx	|	Rewards up to $	|
 |	BigONE	|	https://hackenproof.com/bigone-global-exchange	|	Rewards up to $	|
