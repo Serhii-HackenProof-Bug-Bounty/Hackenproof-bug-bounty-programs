@@ -93,25 +93,24 @@
 |	CoinW	|	https://hackenproof.com/company/coinw/programs	|	Rewards up to $2000	|
 |	Cronos	|	https://hackenproof.com/company/cronos/programs	|	Rewards up to $250000	|
 |	RISC Zero	|	https://hackenproof.com/company/risc-zero/programs	|	Rewards up to $150000	|
-|	AirPuff	|	https://hackenproof.com/company/airpuff/programs	|	Rewards up to $	|
-|	Slex	|	https://hackenproof.com/company/slex/programs	|	Rewards up to $	|
-|	All in Bits	|	https://hackenproof.com/company/all-in-bits/programs	|	Rewards up to $	|
-|	Concordia	|	https://hackenproof.com/company/concordia/programs	|	Rewards up to $	|
-|	Aviator	|	https://hackenproof.com/company/aviator/programs	|	Rewards up to $	|
-|	Unitus	|	https://hackenproof.com/company/unitus/programs	|	Rewards up to $	|
-|	Zest Protocol	|	https://hackenproof.com/company/zest-protocol/programs	|	Rewards up to $	|
-|	TON Foundaton	|	https://hackenproof.com/company/ton-foundation/programs	|	Rewards up to $	|
-|	CoinEx	|	https://hackenproof.com/company/coinex-global/programs	|	Rewards up to $	|
-|	River	|	https://hackenproof.com/company/river/programs	|	Rewards up to $	|
-|	Aptos	|	https://hackenproof.com/company/aptos-labs/programs	|	Rewards up to $	|
-|	Goby	|	https://hackenproof.com/company/goby/programs	|	Rewards up to $	|
-|	Bluefin	|	https://hackenproof.com/company/bluefin/programs	|	Rewards up to $	|
-|	ICP	|	https://hackenproof.com/company/dfinity/programs	|	Rewards up to $	|
-|	PUMB	|	https://hackenproof.com/company/pumb-dot-ua/programs	|	Rewards up to $	|
-|	INIT	|	https://hackenproof.com/company/init-capital/programs	|	Rewards up to $	|
-|	Biconomy	|	https://hackenproof.com/manager/biconomy/programs	|	Rewards up to $	|
-|	Dione Protocol	|	https://hackenproof.com/company/dione/programs	|	Rewards up to $	|
-|	Backpack	|	https://hackenproof.com/company/backpack/programs	|	Rewards up to $	|
-|	LiNEAR	|	https://hackenproof.com/company/linear-protocol/programs	|	Rewards up to $	|
+|	AirPuff	|	https://hackenproof.com/company/airpuff/programs	|	Rewards up to $25000	|
+|	Slex	|	https://hackenproof.com/company/slex/programs	|	Rewards up to $500	|
+|	All in Bits	|	https://hackenproof.com/company/all-in-bits/programs	|	Rewards up to $10000	|
+|	Concordia	|	https://hackenproof.com/company/concordia/programs	|	Rewards up to $20000	|
+|	Unitus	|	https://hackenproof.com/company/unitus/programs	|	Rewards up to $50000	|
+|	Zest Protocol	|	https://hackenproof.com/company/zest-protocol/programs	|	Rewards up to $100000	|
+|	TON Foundaton	|	https://hackenproof.com/company/ton-foundation/programs	|	Rewards up to $5000	|
+|	CoinEx	|	https://hackenproof.com/company/coinex-global/programs	|	Rewards up to $10000	|
+|	River	|	https://hackenproof.com/company/river/programs	|	Rewards up to $50000	|
+|	Aptos	|	https://hackenproof.com/company/aptos-labs/programs	|	Rewards up to $1000000	|
+|	Goby	|	https://hackenproof.com/company/goby/programs	|	Rewards up to $10000	|
+|	Bluefin	|	https://hackenproof.com/company/bluefin/programs	|	Rewards up to $15000	|
+|	Dfinity	|	https://hackenproof.com/company/dfinity/programs	|	Rewards up to $50000	|
+|	PUMB	|	https://hackenproof.com/company/pumb-dot-ua/programs	|	Rewards up to $2000	|
+|	INIT	|	https://hackenproof.com/company/init-capital/programs	|	Rewards up to $100000	|
+|	Biconomy	|	https://hackenproof.com/manager/biconomy/programs	|	Rewards up to $500	|
+|	Dione Protocol	|	https://hackenproof.com/company/dione/programs	|	Rewards up to $20000	|
+|	Backpack	|	https://hackenproof.com/company/backpack/programs	|	Rewards up to $100000	|
+|	LiNEAR	|	https://hackenproof.com/company/linear-protocol/programs	|	Rewards up to $5000	|
 
 
