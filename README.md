@@ -33,15 +33,15 @@
 |	Ternoa	|	https://hackenproof.com/ternoa	|	Rewards up to $100000	|
 |	Bitdelta	|	https://hackenproof.com/bitdelta	|	Rewards up to $3000	|
 |	Status (IFT)	|	https://hackenproof.com/ift	|	Rewards up to $5000	|
-|	BingX	|	https://hackenproof.com/bingx	|	Rewards up to $	|
-|	BigONE	|	https://hackenproof.com/bigone-global-exchange	|	Rewards up to $	|
-|	Near	|	https://hackenproof.com/near	|	Rewards up to $	|
-|	ShapeShift	|	https://hackenproof.com/shape-shift	|	Rewards up to $	|
-|	Coin98	|	https://hackenproof.com/coin98	|	Rewards up to $	|
-|	JOJO	|	https://hackenproof.com/jojo	|	Rewards up to $	|
-|	Dexalot	|	https://hackenproof.com/dexalot	|	Rewards up to $	|
-|	Dodo	|	https://hackenproof.com/dodoex	|	Rewards up to $	|
-|	TicketsTravel	|	https://hackenproof.com/tickets-travel-network	|	Rewards up to $	|
+|	BingX	|	https://hackenproof.com/bingx	|	Rewards up to $4000	|
+|	BigONE	|	https://hackenproof.com/bigone-global-exchange	|	Rewards up to $1500	|
+|	Near	|	https://hackenproof.com/near	|	Rewards up to $1000000	|
+|	ShapeShift	|	https://hackenproof.com/shape-shift	|	Rewards up to $10000	|
+|	Coin98	|	https://hackenproof.com/coin98	|	Rewards up to $10000	|
+|	JOJO	|	https://hackenproof.com/jojo	|	Rewards up to $30000	|
+|	Dexalot	|	https://hackenproof.com/dexalot	|	Rewards up to $100000	|
+|	Dodo	|	https://hackenproof.com/dodoex	|	Rewards up to $10000	|
+|	TicketsTravel	|	https://hackenproof.com/tickets-travel-network-slash-updated-ui	|	Rewards up to $	|
 |	Chainstack	|	https://hackenproof.com/chainstack	|	Rewards up to $	|
 |	AssetMantle	|	https://hackenproof.com/assetmantle	|	Rewards up to $	|
 |	UACatsDivision	|	https://hackenproof.com/uacatsdivision	|	Rewards up to $	|
