@@ -23,16 +23,16 @@
 |	OKX	|	https://hackenproof.com/okx-1	|	Rewards up to $1000000	|
 |	Bitrue	|	https://hackenproof.com/bitrue	|	Rewards up to $1500	|
 |	EXMO	|	https://hackenproof.com/exmo	|	Rewards up to $3000	|
-|	Cryptology	|	https://hackenproof.com/cryptology	|	Rewards up to $	|
-|	Bitkub	|	https://hackenproof.com/bitkub	|	Rewards up to $	|
-|	BTSE	|	https://hackenproof.com/btse	|	Rewards up to $	|
-|	IoTeX	|	https://hackenproof.com/iotex	|	Rewards up to $	|
-|	Okcoin	|	https://hackenproof.com/okcoin	|	Rewards up to $	|
-|	Router	|	https://hackenproof.com/router	|	Rewards up to $	|
-|	BitMart	|	https://hackenproof.com/bitmart-exchange	|	Rewards up to $	|
-|	Ternoa	|	https://hackenproof.com/ternoa	|	Rewards up to $	|
-|	Bitdelta	|	https://hackenproof.com/bitdelta	|	Rewards up to $	|
-|	Status (IFT)	|	https://hackenproof.com/company/ift/programs	|	Rewards up to $	|
+|	Cryptology	|	https://hackenproof.com/cryptology	|	Rewards up to $50000	|
+|	Bitkub	|	https://hackenproof.com/bitkub	|	Rewards up to $3000	|
+|	BTSE	|	https://hackenproof.com/btse	|	Rewards up to $1000	|
+|	IoTeX	|	https://hackenproof.com/iotex	|	Rewards up to $15000	|
+|	Okcoin	|	https://hackenproof.com/okcoin	|	Rewards up to $5000	|
+|	Router	|	https://hackenproof.com/router	|	Rewards up to $200000	|
+|	BitMart	|	https://hackenproof.com/bitmart-exchange	|	Rewards up to $5000	|
+|	Ternoa	|	https://hackenproof.com/ternoa	|	Rewards up to $100000	|
+|	Bitdelta	|	https://hackenproof.com/bitdelta	|	Rewards up to $3000	|
+|	Status (IFT)	|	https://hackenproof.com/ift	|	Rewards up to $5000	|
 |	BingX	|	https://hackenproof.com/bingx	|	Rewards up to $	|
 |	BigONE	|	https://hackenproof.com/bigone-global-exchange	|	Rewards up to $	|
 |	Near	|	https://hackenproof.com/near	|	Rewards up to $	|
