@@ -78,7 +78,6 @@
 |	DeXe protocol	|	https://hackenproof.com/company/dexe-protocol/programs	|	Rewards up to $500000	|
 |	Impermax Finance	|	https://hackenproof.com/company/impermax-finance/programs	|	Rewards up to $100000	|
 |	AlphaX	|	https://hackenproof.com/company/alphax/programs	|	Rewards up to $5000	|
-|	Ton Diamonds	|	https://hackenproof.com/company/ton-diamonds/programs	|	Rewards up to $10000	|
 |	Mysten Labs	|	https://hackenproof.com/company/mysten-labs/programs	|	Rewards up to $30000	|
 |	Civic 	|	https://hackenproof.com/civic/programs	|	Rewards up to $20000	|
 |	Deepcoin	|	https://hackenproof.com/company/deepcoin/programs	|	Rewards up to $5000	|
@@ -112,5 +111,8 @@
 |	Dione Protocol	|	https://hackenproof.com/company/dione/programs	|	Rewards up to $20000	|
 |	Backpack	|	https://hackenproof.com/company/backpack/programs	|	Rewards up to $100000	|
 |	LiNEAR	|	https://hackenproof.com/company/linear-protocol/programs	|	Rewards up to $5000	|
+|	DOP	|	https://hackenproof.com/company/dop/programs	|	Rewards up to $300000	|
+|	Layer3	|	https://hackenproof.com/company/layer3/programs	|	Rewards up to $500000	|
+
 
 
