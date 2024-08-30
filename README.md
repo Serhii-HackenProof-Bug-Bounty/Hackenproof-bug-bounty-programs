@@ -37,7 +37,7 @@
 |	ShapeShift	|	https://hackenproof.com/shape-shift/shapeshift	|	Rewards up to $10000	|
 |	Coin98	|	https://hackenproof.com/programs/coin98	|	Rewards up to $10000	|
 |	JOJO Web	|	https://hackenproof.com/programs/jojo-web	|	Rewards up to $30000	|
-|	Dexalot Web	|	https://hackenproof.com/dexalot/dexalot-web-and-mobile	|	Rewards up to $100000	|
+|	Dexalot Web	|	https://hackenproof.com/dexalot/dexalot-web-and-mobile	|	Rewards up to $10000	|
 |	Tickets Travel Network / Updated UI	|	https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui	|	Rewards up to $2000	|
 |	Chainstack	|	https://hackenproof.com/chainstack/chainstack	|	Rewards up to $2000	|
 |	AssetMantle	|	https://hackenproof.com/assetmantle/assetmantle	|	Rewards up to $1000	|
