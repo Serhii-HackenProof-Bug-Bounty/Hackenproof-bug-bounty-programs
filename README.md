@@ -49,17 +49,18 @@
 |	Asymetrix Web	|	https://hackenproof.com/asymetrix/asymetrix-web	|	Rewards up to $10000	|
 |	WhiteMarket Web	|	https://hackenproof.com/whitemarket/whitemarket-web	|	Rewards up to $5000	|
 |	EVAA Web	|	https://hackenproof.com/evaa/evaa-web	|	Rewards up to $3000	|
-|	MyEtherWallet	|	https://hackenproof.com/company/myetherwallet/programs	|	Rewards up to $3000	|
-|	NiceHash	|	https://hackenproof.com/company/nicehash/programs	|	Rewards up to BTC 0.5	|
-|	Filmio	|	https://hackenproof.com/company/filmio/programs	|	Rewards up to $2500	|
-|	LetsExchange	|	https://hackenproof.com/company/letsexchange/programs	|	Rewards up to $2000	|
-|	Bitexen	|	https://hackenproof.com/company/bitexen/programs	|	Rewards up to $3000	|
-|	Toobit	|	https://hackenproof.com/company/toobit/programs	|	Rewards up to $10000	|
-|	Fastex	|	https://hackenproof.com/company/fastex/programs	|	Rewards up to $2000	|
-|	SmarDex	|	https://hackenproof.com/company/smardex/programs	|	Rewards up to $500000	|
-|	Trustee	|	https://hackenproof.com/company/trustee/programs	|	Rewards up to $3000	|
-|	SUI	|	https://hackenproof.com/company/sui/programs	|	Rewards up to $1000000	|
-|	Probit	|	https://hackenproof.com/company/probit-global/programs	|	Rewards up to $10000	|
+|	MyEtherWallet	|	https://hackenproof.com/myetherwallet/myetherwallet	|	Rewards up to $3000	|
+|	Enkrypt Wallet	|	https://hackenproof.com/myetherwallet/enkrypt-wallet	|	Rewards up to $3000	|
+|	NiceHash Mining platform	|	https://hackenproof.com/programs/nicehash-mining-platform	|	Rewards up to BTC 0.5	|
+|	NiceHash Shop	|	https://hackenproof.com/programs/nicehash-shop	|	Rewards up to BTC 0.5	|
+|	NiceX Crypto Exchange	|		|	Rewards up to BTC 0.1	|
+|	Filmio Web & API	|	https://hackenproof.com/filmio/filmio-web-and-api	|	Rewards up to $2500	|
+|	LetsExchange Web & API	|	https://hackenproof.com/letsexchange/letsexchange-web-and-api	|	Rewards up to $2000	|
+|	Bitexen Web & App	|	https://hackenproof.com/programs/bitexen-web-and-app	|	Rewards up to $3000	|
+|	Toobit Web & Mobile	|	https://hackenproof.com/toobit/toobit-web-and-mobile	|	Rewards up to $10000	|
+|	Fastex Web	|	https://hackenproof.com/programs/fastex-web	|	Rewards up to $2000	|
+|	Trustee Plus Mobile	|	https://hackenproof.com/programs/trustee-plus-mobile	|	Rewards up to $3000	|
+|	ProBit Web & Mobile	|	https://hackenproof.com/probit-global/probit-web-and-mobile	|	Rewards up to $10000	|
 |	Vaultka	|	https://hackenproof.com/company/vaultka/programs	|	Rewards up to $15000	|
 |	Pointpay	|	https://hackenproof.com/company/pointpay/programs	|	Rewards up to $500	|
 |	Kolibrio	|	https://hackenproof.com/company/kolibrio/programs	|	Rewards up to $10000	|
