@@ -2,37 +2,39 @@
 
 
 
-| Company name  | Link                                            | Reward                  |
+| Program name  | Link                                            | Reward                  |
 | ------------- | ------------------------------------------------|-------------------------|
-|	Latoken	|	https://hackenproof.com/latoken/latoken-exchange	|	Rewards up to $1500	|
+|	Latoken Exchange	|	https://hackenproof.com/latoken/latoken-exchange	|	Rewards up to $1500	|
 |	Coingecko	|	https://hackenproof.com/coingecko/coingecko	|	Rewards up to $1500	|
-|	Coinmetro	|	https://hackenproof.com/coinmetro/coinmetro-exchange	|	Rewards up to $3000	|
-|	Gate io	|	https://hackenproof.com/gate-dot-io/gate-dot-io-exchange	|	Rewards up to $5000	|
+|	CoinMetro Exchange	|	https://hackenproof.com/coinmetro/coinmetro-exchange	|	Rewards up to $3000	|
+|	Gate.io Exchange	|	https://hackenproof.com/gate-dot-io/gate-dot-io-exchange	|	Rewards up to $5000	|
 |	HackenProof	|	https://hackenproof.com/hacken/hackenproof	|	Rewards up to $1500	|
 |	HTX	|	https://hackenproof.com/htx/htx	|	Rewards up to $100000	|
-|	Kuna	|	https://hackenproof.com/lcx/lcx	|	Rewards up to $5000	|
+|	Kuna Crypto Exchange	|	https://hackenproof.com/lcx/lcx	|	Rewards up to $5000	|
 |	LCX	|	https://hackenproof.com/company/lcx/programs	|	Rewards up to $3000	|
-|	P2PB2B	|	https://hackenproof.com/p2b-exchange/p2b-exchange	|	Rewards up to $1000	|
+|	P2B Exchange	|	https://hackenproof.com/p2b-exchange/p2b-exchange	|	Rewards up to $1000	|
+|	WhiteBIT Exchange	|	https://hackenproof.com/whitebit/whitebit	|	Rewards up to $10000	|
+|	WWhiteBIT Blog	|	https://hackenproof.com/whitebit/whitebit-blog	|	Rewards up to $10000	|
+
+
+
+
 |	DexTrade	|	https://hackenproof.com/dex-trade/dex-trade	|	Rewards up to $3000	|
 |	Bitstorage	|	https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	|	Rewards up to $3000	|
 |	Coinstore	|	https://hackenproof.com/coinstore/coinstore	|	Rewards up to $10000	|
 |	OKX	|	https://hackenproof.com/okx-1/okx	|	Rewards up to $1000000	|
-|	Bitrue	|	https://hackenproof.com/company/bitrue/programs	|	Rewards up to $1500	|
-|	EXMO	|	https://hackenproof.com/company/exmo/programs	|	Rewards up to $3000	|
-|	Cryptology	|	https://hackenproof.com/company/cryptology/programs	|	Rewards up to $50000	|
-|	Bitkub	|	https://hackenproof.com/company/bitku/programsb	|	Rewards up to $3000	|
-|	BTSE	|	https://hackenproof.com/company/btse/programs	|	Rewards up to $1000	|
-|	IoTeX	|	https://hackenproof.com/company/iotex/programs	|	Rewards up to $15000	|
-|	Okcoin	|	https://hackenproof.com/company/okcoin/programs	|	Rewards up to $5000	|
-|	Router	|	https://hackenproof.com/company/router/programs	|	Rewards up to $200000	|
-|	BitMart	|	https://hackenproof.com/company/bitmart-exchange/programs	|	Rewards up to $5000	|
-|	Ternoa	|	https://hackenproof.com/company/ternoa/programs	|	Rewards up to $100000	|
-|	Bitdelta	|	https://hackenproof.com/company/bitdelta/programs	|	Rewards up to $3000	|
-|	Status (IFT)	|	https://hackenproof.com/company/ift/programs	|	Rewards up to $5000	|
-|	BingX	|	https://hackenproof.com/company/bingx/programs	|	Rewards up to $4000	|
-|	BigONE	|	https://hackenproof.com/company/bigone-global-exchange/programs	|	Rewards up to $1500	|
-|	Near	|	https://hackenproof.com/company/near/programs	|	Rewards up to $1000000	|
-|	ShapeShift	|	https://hackenproof.com/company/shape-shift/programs	|	Rewards up to $10000	|
+|	Bitrue	|	https://hackenproof.com/bitrue/bitrue	|	Rewards up to $1500	|
+|	EXMO	|	https://hackenproof.com/exmo/exmo	|	Rewards up to $3000	|
+|	Cryptology	|	https://hackenproof.com/cryptology/cryptology	|	Rewards up to $50000	|
+|	Bitkub	|	https://hackenproof.com/bitkub/bitkub	|	Rewards up to $3000	|
+|	BTSE	|	https://hackenproof.com/btse/btse-bug-bounty-program	|	Rewards up to $1000	|
+|	IoTeX	|	https://hackenproof.com/iotex/iotex	|	Rewards up to $15000	|
+|	Okcoin	|	https://hackenproof.com/okcoin/okcoin	|	Rewards up to $5000	|
+|	BitMart	|	https://hackenproof.com/bitmart-exchange/bitmart-exchange	|	Rewards up to $5000	|
+|	Bitdelta	|	https://hackenproof.com/bitdelta/bitdelta-web	|	Rewards up to $3000	|
+|	BingX	|	https://hackenproof.com/bingx/bingx-exchange	|	Rewards up to $4000	|
+|	BigONE	|	https://hackenproof.com/bigone-global-exchange/bigone-global-exchange	|	Rewards up to $1500	|
+|	ShapeShift	|	https://hackenproof.com/shape-shift/shapeshift	|	Rewards up to $10000	|
 |	Coin98	|	https://hackenproof.com/company/coin98/programs	|	Rewards up to $10000	|
 |	JOJO	|	https://hackenproof.com/company/jojo/programs	|	Rewards up to $30000	|
 |	Dexalot	|	https://hackenproof.com/company/dexalot/programs	|	Rewards up to $100000	|
