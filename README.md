@@ -9,7 +9,7 @@
 |	CoinMetro Exchange	|	https://hackenproof.com/coinmetro/coinmetro-exchange	|	Rewards up to $3000	|
 |	Gate.io Exchange	|	https://hackenproof.com/gate-dot-io/gate-dot-io-exchange	|	Rewards up to $5000	|
 |	HackenProof	|	https://hackenproof.com/hacken/hackenproof	|	Rewards up to $1500	|
-|	HTX	|	https://hackenproof.com/htx/htx	|	Rewards up to $100000	|
+|	HTX	|	https://hackenproof.com/htx/htx	|	Rewards up to $10000	|
 |	Kuna Crypto Exchange	|	https://hackenproof.com/lcx/lcx	|	Rewards up to $5000	|
 |	LCX	|	https://hackenproof.com/company/lcx/programs	|	Rewards up to $3000	|
 |	P2B Exchange	|	https://hackenproof.com/p2b-exchange/p2b-exchange	|	Rewards up to $1000	|
