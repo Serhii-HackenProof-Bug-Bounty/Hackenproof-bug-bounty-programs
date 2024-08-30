@@ -61,54 +61,32 @@
 |	Fastex Web	|	https://hackenproof.com/programs/fastex-web	|	Rewards up to $2000	|
 |	Trustee Plus Mobile	|	https://hackenproof.com/programs/trustee-plus-mobile	|	Rewards up to $3000	|
 |	ProBit Web & Mobile	|	https://hackenproof.com/probit-global/probit-web-and-mobile	|	Rewards up to $10000	|
-|	Vaultka	|	https://hackenproof.com/company/vaultka/programs	|	Rewards up to $15000	|
-|	Pointpay	|	https://hackenproof.com/company/pointpay/programs	|	Rewards up to $500	|
-|	Kolibrio	|	https://hackenproof.com/company/kolibrio/programs	|	Rewards up to $10000	|
-|	Pionex	|	https://hackenproof.com/company/pionex/programs	|	Rewards up to $10000	|
-|	KINZA	|	https://hackenproof.com/company/kinza/programs	|	Rewards up to $50000	|
-|	CoinTR	|	https://hackenproof.com/company/cointr-pro/programs	|	Rewards up to $2000	|
-|	Blofin	|	https://hackenproof.com/company/blofin/programs	|	Rewards up to $3000	|
-|	Horizon protocol	|	https://hackenproof.com/company/horizon-protocol/programs	|	Rewards up to $60000	|
-|	1inch	|	https://hackenproof.com/company/1inch/programs	|	Rewards up to $500000	|
-|	ZetaChain	|	https://hackenproof.com/company/zetachain/programs	|	Rewards up to $200000	|
-|	DeXe protocol	|	https://hackenproof.com/company/dexe-protocol/programs	|	Rewards up to $500000	|
-|	Impermax Finance	|	https://hackenproof.com/company/impermax-finance/programs	|	Rewards up to $100000	|
-|	AlphaX	|	https://hackenproof.com/company/alphax/programs	|	Rewards up to $5000	|
-|	Mysten Labs	|	https://hackenproof.com/company/mysten-labs/programs	|	Rewards up to $30000	|
-|	Civic 	|	https://hackenproof.com/civic/programs	|	Rewards up to $20000	|
-|	Deepcoin	|	https://hackenproof.com/company/deepcoin/programs	|	Rewards up to $5000	|
-|	Shido	|	https://hackenproof.com/company/shido/programs	|	Rewards up to $10000	|
-|	Exzi	|	https://hackenproof.com/company/exzi/programs	|	Rewards up to $3000	|
-|	OORT	|	https://hackenproof.com/company/oort/programs	|	Rewards up to $100000	|
-|	Polygon	|	https://hackenproof.com/company/polygon-technology/programs	|	Rewards up to $1000000	|
-|	Tokenize Xchange	|	https://hackenproof.com/company/tokenize-xchange/programs	|	Rewards up to $1100	|
-|	Poloniex	|	https://hackenproof.com/company/poloniex/programs	|	Rewards up to $5000	|
-|	Smilee	|	https://hackenproof.com/company/smilee/programs	|	Rewards up to $75000	|
-|	Metamask	|	https://hackenproof.com/company/metamask/programs	|	Rewards up to $700000	|
-|	CoinW	|	https://hackenproof.com/company/coinw/programs	|	Rewards up to $2000	|
-|	Cronos	|	https://hackenproof.com/company/cronos/programs	|	Rewards up to $250000	|
-|	RISC Zero	|	https://hackenproof.com/company/risc-zero/programs	|	Rewards up to $150000	|
-|	AirPuff	|	https://hackenproof.com/company/airpuff/programs	|	Rewards up to $25000	|
-|	Slex	|	https://hackenproof.com/company/slex/programs	|	Rewards up to $500	|
-|	All in Bits	|	https://hackenproof.com/company/all-in-bits/programs	|	Rewards up to $10000	|
-|	Concordia	|	https://hackenproof.com/company/concordia/programs	|	Rewards up to $20000	|
-|	Unitus	|	https://hackenproof.com/company/unitus/programs	|	Rewards up to $50000	|
-|	Zest Protocol	|	https://hackenproof.com/company/zest-protocol/programs	|	Rewards up to $100000	|
-|	TON Foundaton	|	https://hackenproof.com/company/ton-foundation/programs	|	Rewards up to $5000	|
-|	CoinEx	|	https://hackenproof.com/company/coinex-global/programs	|	Rewards up to $10000	|
-|	River	|	https://hackenproof.com/company/river/programs	|	Rewards up to $50000	|
-|	Aptos	|	https://hackenproof.com/company/aptos-labs/programs	|	Rewards up to $1000000	|
-|	Goby	|	https://hackenproof.com/company/goby/programs	|	Rewards up to $10000	|
-|	Bluefin	|	https://hackenproof.com/company/bluefin/programs	|	Rewards up to $15000	|
-|	Dfinity	|	https://hackenproof.com/company/dfinity/programs	|	Rewards up to $50000	|
-|	PUMB	|	https://hackenproof.com/company/pumb-dot-ua/programs	|	Rewards up to $2000	|
-|	INIT	|	https://hackenproof.com/company/init-capital/programs	|	Rewards up to $100000	|
-|	Biconomy	|	https://hackenproof.com/manager/biconomy/programs	|	Rewards up to $500	|
-|	Dione Protocol	|	https://hackenproof.com/company/dione/programs	|	Rewards up to $20000	|
-|	Backpack	|	https://hackenproof.com/company/backpack/programs	|	Rewards up to $100000	|
-|	LiNEAR	|	https://hackenproof.com/company/linear-protocol/programs	|	Rewards up to $5000	|
-|	DOP	|	https://hackenproof.com/company/dop/programs	|	Rewards up to $300000	|
-|	Layer3	|	https://hackenproof.com/company/layer3/programs	|	Rewards up to $500000	|
+|	PointPay Web & Mobile	|	https://hackenproof.com/pointpay/pointpay-web-and-mobile	|	Rewards up to $500	|
+|	Pionex App & API	|	https://hackenproof.com/pionex/pionex-app-and-api |	Rewards up to $10000	|
+|	CoinTR Pro Mobile & API	|	https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api	|	Rewards up to $2000	|
+|	BloFin Web & Mobile	|	https://hackenproof.com/blofin/blofin-web-and-mobile	|	Rewards up to $3000	|
+|	ZetaChain Web Apps	|	https://hackenproof.com/programs/zetachain-web-apps	|	Rewards up to $20000	|
+|	AlphaX Exchange	|	https://hackenproof.com/alphax/alphax-exchange	|	Rewards up to $5000	|
+|	Deepcoin Web & Mobile	|	https://hackenproof.com/deepcoin/deepcoin-web-and-mobile	|	Rewards up to $5000	|
+|	EXZi Web & Mobile	|	https://hackenproof.com/exzi/exzi-web-and-mobile	|	Rewards up to $3000	|
+|	Tokenize Xchange Web & Mobile	|	https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile	|	Rewards up to $1100	|
+|	Poloniex Web & API	|	https://hackenproof.com/poloniex/poloniex-web-and-api	|	Rewards up to $5000	|
+|	CoinW Web & Mobile	|	https://hackenproof.com/coinw/coinw-web-and-mobile	|	Rewards up to $2000	|
+|	Cronos Web	|	https://hackenproof.com/cronos/cronos-web	|	Rewards up to $2500	|
+|	AirPuff Web	|	https://hackenproof.com/airpuff/airpuff-web	|	Rewards up to $5000	|
+|	Slex Web	|	https://hackenproof.com/slex/slex-web	|	Rewards up to $500	|
+|	Superposition Finance Web	|	https://hackenproof.com/manager/concordia/superposition-finance-web/program_info	|	Rewards up to $20000	|
+|	TON Society	|	https://hackenproof.com/programs/ton-society	|	Rewards up to $5000	|
+|	CoinEx Web & Mobile	|	https://hackenproof.com/coinex-global/coinex-web-and-mobile	|	Rewards up to $10000	|
+|	Goby Wallet	|	https://hackenproof.com/goby/goby-wallet	|	Rewards up to $10000	|
+|	Bluefin Web	|	https://hackenproof.com/bluefin/bluefin-web	|	Rewards up to $5000	|
+|	Pumb Tacsk	|	https://hackenproof.com/programs/pumb-tacsk	|	Rewards up to $2000	|
+|	PUMB Web	|	https://hackenproof.com/programs/pumb-web	|	Rewards up to $2000	|
+|	Payhub Web	|	https://hackenproof.com/programs/payhub-web	|	Rewards up to $2000	|
+|	INIT Capital Web	|	https://hackenproof.com/programs/init-capital-web	|	Rewards up to $10000	|
+|	Biconomy Web & Mobile	|	https://hackenproof.com/manager/biconomy/biconomy-web-and-mobile/	|	Rewards up to $500	|
+|	Backpack Web & API	|	https://hackenproof.com/programs/backpack-web-and-api	|	Rewards up to $100000	|
+
 
 
 
