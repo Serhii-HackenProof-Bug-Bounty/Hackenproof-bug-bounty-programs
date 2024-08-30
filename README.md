@@ -14,13 +14,9 @@
 |	LCX	|	https://hackenproof.com/company/lcx/programs	|	Rewards up to $3000	|
 |	P2B Exchange	|	https://hackenproof.com/p2b-exchange/p2b-exchange	|	Rewards up to $1000	|
 |	WhiteBIT Exchange	|	https://hackenproof.com/whitebit/whitebit	|	Rewards up to $10000	|
-|	WWhiteBIT Blog	|	https://hackenproof.com/whitebit/whitebit-blog	|	Rewards up to $10000	|
-
-
-
-
+|	WhiteBIT Blog	|	https://hackenproof.com/whitebit/whitebit-blog	|	Rewards up to $10000	|
 |	DexTrade	|	https://hackenproof.com/dex-trade/dex-trade	|	Rewards up to $3000	|
-|	Bitstorage	|	https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	|	Rewards up to $3000	|
+|	BitStorage Web & API	|	https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	|	Rewards up to $3000	|
 |	Coinstore	|	https://hackenproof.com/coinstore/coinstore	|	Rewards up to $10000	|
 |	OKX	|	https://hackenproof.com/okx-1/okx	|	Rewards up to $1000000	|
 |	Bitrue	|	https://hackenproof.com/bitrue/bitrue	|	Rewards up to $1500	|
@@ -30,28 +26,29 @@
 |	BTSE	|	https://hackenproof.com/btse/btse-bug-bounty-program	|	Rewards up to $1000	|
 |	IoTeX	|	https://hackenproof.com/iotex/iotex	|	Rewards up to $15000	|
 |	Okcoin	|	https://hackenproof.com/okcoin/okcoin	|	Rewards up to $5000	|
-|	BitMart	|	https://hackenproof.com/bitmart-exchange/bitmart-exchange	|	Rewards up to $5000	|
+|	Router Web	|	https://hackenproof.com/programs/router-web	|	Rewards up to $5000	|
+|	BitMart Exchange	|	https://hackenproof.com/bitmart-exchange/bitmart-exchange	|	Rewards up to $5000	|
 |	Bitdelta	|	https://hackenproof.com/bitdelta/bitdelta-web	|	Rewards up to $3000	|
-|	BingX	|	https://hackenproof.com/bingx/bingx-exchange	|	Rewards up to $4000	|
-|	BigONE	|	https://hackenproof.com/bigone-global-exchange/bigone-global-exchange	|	Rewards up to $1500	|
+|	Status	|	https://hackenproof.com/programs/status|	Rewards up to $5000	|
+|	BingX Exchange	|	https://hackenproof.com/bingx/bingx-exchange	|	Rewards up to $4000	|
+|	BigONE Global Exchange	|	https://hackenproof.com/bigone-global-exchange/bigone-global-exchange	|	Rewards up to $1500	|
+|	NEAR Web |	https://hackenproof.com/programs/near-web	|	Rewards up to $50000	|
+|	NEAR Foundation Web (Low) |	https://hackenproof.com/programs/near-foundation-web-low	|	Rewards up to $2500	|
 |	ShapeShift	|	https://hackenproof.com/shape-shift/shapeshift	|	Rewards up to $10000	|
-|	Coin98	|	https://hackenproof.com/company/coin98/programs	|	Rewards up to $10000	|
-|	JOJO	|	https://hackenproof.com/company/jojo/programs	|	Rewards up to $30000	|
-|	Dexalot	|	https://hackenproof.com/company/dexalot/programs	|	Rewards up to $100000	|
-|	Dodo	|	https://hackenproof.com/company/dodoex/programs	|	Rewards up to $10000	|
-|	TicketsTravel	|	https://hackenproof.com/company/tickets-travel-network/programs	|	Rewards up to $2000	|
-|	Chainstack	|	https://hackenproof.com/company/chainstack/programs	|	Rewards up to $2000	|
-|	AssetMantle	|	https://hackenproof.com/company/assetmantle/programs	|	Rewards up to $1000	|
-|	UACatsDivision	|	https://hackenproof.com/company/uacatsdivision/programs	|	Merch Rewards	|
-|	Aurora	|	https://hackenproof.com/company/aurora/programs	|	Rewards up to $1000000	|
-|	XT	|	https://hackenproof.com/company/xt/programs	|	Rewards up to $2000	|
-|	Vertex protocol	|	https://hackenproof.com/company/vertex-protocol/programs	|	Rewards up to $500000	|
-|	Bitcastle	|	https://hackenproof.com/company/bitcastle/programs	|	Rewards up to $1200	|
-|	Asymetrix	|	https://hackenproof.com/company/asymetrix/programs	|	Rewards up to $100000	|
-|	WhiteMarket	|	https://hackenproof.com/company/whitemarket/programs	|	Rewards up to $5000	|
-|	Superfluid	|	https://hackenproof.com/company/superfluid/programs	|	Rewards up to $100000	|
-|	DeltaPrime	|	https://hackenproof.com/company/deltaprime/programs	|	Rewards up to $1000000	|
-|	EVAA	|	https://hackenproof.com/company/evaa/programs	|	Rewards up to $3000	|
+|	Coin98	|	https://hackenproof.com/programs/coin98	|	Rewards up to $10000	|
+|	JOJO Web	|	https://hackenproof.com/programs/jojo-web	|	Rewards up to $30000	|
+|	Dexalot Web	|	https://hackenproof.com/dexalot/dexalot-web-and-mobile	|	Rewards up to $100000	|
+|	Tickets Travel Network / Updated UI	|	https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui	|	Rewards up to $2000	|
+|	Chainstack	|	https://hackenproof.com/chainstack/chainstack	|	Rewards up to $2000	|
+|	AssetMantle	|	https://hackenproof.com/assetmantle/assetmantle	|	Rewards up to $1000	|
+|	UACatsDivision	|	https://hackenproof.com/uacatsdivision/uacatsdivision-web	|	Merch Rewards	|
+|	Aurora Web	|	https://hackenproof.com/aurora/aurora-web	|	Rewards up to $100000	|
+|	XT	|	https://hackenproof.com/xt/xt	|	Rewards up to $2000	|
+|	Vertex Web Apps	|	https://hackenproof.com/programs/vertex-web-apps	|	Rewards up to $10000	|
+|	Bitcastle Web	|	https://hackenproof.com/bitcastle/bitcastle-web	|	Rewards up to $1200	|
+|	Asymetrix Web	|	https://hackenproof.com/asymetrix/asymetrix-web	|	Rewards up to $10000	|
+|	WhiteMarket Web	|	https://hackenproof.com/whitemarket/whitemarket-web	|	Rewards up to $5000	|
+|	EVAA Web	|	https://hackenproof.com/evaa/evaa-web	|	Rewards up to $3000	|
 |	MyEtherWallet	|	https://hackenproof.com/company/myetherwallet/programs	|	Rewards up to $3000	|
 |	NiceHash	|	https://hackenproof.com/company/nicehash/programs	|	Rewards up to BTC 0.5	|
 |	Filmio	|	https://hackenproof.com/company/filmio/programs	|	Rewards up to $2500	|
