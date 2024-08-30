@@ -18,7 +18,7 @@
 |	DexTrade	|	https://hackenproof.com/dex-trade/dex-trade	|	Rewards up to $3000	|
 |	BitStorage Web & API	|	https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	|	Rewards up to $3000	|
 |	Coinstore	|	https://hackenproof.com/coinstore/coinstore	|	Rewards up to $10000	|
-|	OKX	|	https://hackenproof.com/okx-1/okx	|	Rewards up to $1000000	|
+|	OKX	|	https://hackenproof.com/okx-1/okx	|	Rewards up to $30000	|
 |	Bitrue	|	https://hackenproof.com/bitrue/bitrue	|	Rewards up to $1500	|
 |	EXMO	|	https://hackenproof.com/exmo/exmo	|	Rewards up to $3000	|
 |	Cryptology	|	https://hackenproof.com/cryptology/cryptology	|	Rewards up to $50000	|
